@@ -42,5 +42,5 @@ class User extends Authenticatable
     {
         return User::all();
     }
-}Atullllllllll
+}
 ?>
