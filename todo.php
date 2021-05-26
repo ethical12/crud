@@ -8,3 +8,4 @@ class todo extends Model
 {
     protected $table = 'todos';
 }
+?>
